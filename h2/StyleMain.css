@@ -1,0 +1,48 @@
+*,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.container-title{
+    display: flex;
+    justify-content: center;
+}
+.container-navbar {
+    background-color: red;
+    list-style-type: none;
+}
+
+.ul-navbar{
+    background-color: rgb(128, 146, 31);
+    list-style-type: none;
+}
+
+.li-navbar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.container-content{
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+}
+
+.img-content {
+    justify-content: center;
+    display: flex;
+}
+
+.container-footer {
+    background-color: blueviolet;
+}
+
+.h2-footer{
+    background-color: coral;
+}
+
+.h3-footer{
+    background-color: forestgreen;
+}
